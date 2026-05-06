@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Basics
 
 ```sh
@@ -50,3 +51,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 =======
 # docs
 >>>>>>> 0b1b4788fc6511c5fca4698274f21b1d93121c6d
+=======
+# dark-debris
+>>>>>>> ed3c9750e22ff4cdb8c992b8b2ed12c71c7367c3
