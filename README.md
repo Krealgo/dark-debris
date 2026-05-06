@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Basics
 
 ```sh
@@ -47,3 +48,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 ## Mon contact
 **ORCID :** https://orcid.org/0009-0002-0420-3668
+=======
+# docs
+>>>>>>> 0b1b4788fc6511c5fca4698274f21b1d93121c6d
